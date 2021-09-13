@@ -1,0 +1,16 @@
+/* Required Features */
+header {
+  background-color: #1b264f;
+  color: #ced2e2;
+  text-align: center;
+}
+
+main {
+  background-color: #e1e0e0;
+  padding: 1em;
+}
+
+body {
+  background-image: url("https://github.com/AustinKammerer/prime-pw-week-5-assignment-part-2/blob/master/assignment/record.png?raw=true");
+  margin: 0;
+}
